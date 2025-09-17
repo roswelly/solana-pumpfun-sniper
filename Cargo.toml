@@ -1,7 +1,13 @@
 [package]
 name = "solana-pumpfun-sniper"
-version = "0.1.0"
+version = "2.0.0"
 edition = "2021"
+description = "High-performance Rust implementation of a Solana PumpFun sniper bot with advanced features"
+authors = ["Your Name <your.email@example.com>"]
+license = "MIT"
+repository = "https://github.com/yourusername/solana-pumpfun-sniper"
+keywords = ["solana", "pumpfun", "sniper", "trading", "bot", "defi"]
+categories = ["finance", "network-programming"]
 
 [dependencies]
 # Solana dependencies
