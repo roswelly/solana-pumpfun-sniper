@@ -1,7 +1,7 @@
 # Solana PumpFun Sniper Bot 🚀
 
 A high-performance Rust implementation of a Solana PumpFun sniper bot that monitors new token mints and automatically purchases tokens that meet specific market cap criteria.
-
+updated including Mayhem Mode Detect
 ## 🌟 Features
 
 ### Core Features
